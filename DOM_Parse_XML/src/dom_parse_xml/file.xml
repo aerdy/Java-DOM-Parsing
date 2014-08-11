@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--
+    Document   : file.xml
+    Created on : 21 Oktober 2012, 19:08
+    Author     : mrroot
+    Description:
+        Purpose of the document follows.
+--><company>
+   <staff id="1">
+	
+	<lastname>Anna arthdi</lastname>
+	<nickname>putra</nickname>
+	<salary>9999</salary>
+         <age>20</age>
+         
+         </staff>
+</company>
